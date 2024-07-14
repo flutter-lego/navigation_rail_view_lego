@@ -1,7 +1,7 @@
 name: navigation_rail_view_lego
 description: "navigation rail view lego for flutter"
 #publish_to: 'none'
-#repository: https://github.com/melodysdreamj/lego
+repository: https://github.com/flutter-lego/navigation_rail_view_lego
 
 version: 1.0.0
 
